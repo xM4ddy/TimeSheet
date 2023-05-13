@@ -1,0 +1,5 @@
+title: Maddy W StairWell Project
+description: Little Markdown TimeSheet to Keep Track of Hours
+show_date: true
+date_format: "%Y-%m-%d"
+markdown: GFM
