@@ -7,9 +7,10 @@ Date| Hours | Earned Pay for Day| Notes & Overview of Changes
 5/6/2023 | 2:00 | 40.00 $ | work on space theme
 5/11/2023 | 2:30 | 50.00 $ | add PNG loading for multiple folders
 5/12/2023 | 2:30 | 50.00 $ | clean up and comment code, start updating form, update script, and implement "pointiness" and "agitatedness"
-5/15/2023 | 1:00 | 20.00 $ | small updates and changes as well as starting work on moving from PNG's to PNG squences
+5/15/2023 | 1:00 | 20.00 $ | small updates and changes as well as starting work on moving from PNGs to PNG sequences
+5/16/2023 | 3:30 | 70.00 $ | switch to scrolling intro page, load all PNGs for all the different emotions, switch to multidimensional arrays, add testing sprites, change the style of the welcome page
 
 ## **Totals:** (5/16/2023)
 Total Hours Worked | Total Outstanding|  Total Paid
  ---|---|---
-8:00 | ***160.00 $*** | 0.00 $
+ 11:30 | ***230.00 $*** | 0.00 $
