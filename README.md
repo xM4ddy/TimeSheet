@@ -9,7 +9,7 @@ Date| Hours | Earned Pay for Day| Notes & Overview of Changes
 5/12/2023 | 2:30 | 50.00 $ | - clean up and comment code <br> - start updating form <br> - update script <br> - implement "pointiness" and "agitatedness"
 5/15/2023 | 1:00 | 20.00 $ | - small updates and changes <br> - Starting work on moving from PNGs to PNG sequences
 5/16/2023 | 4:00 | 80.00 $ | - switch to scrolling intro page <br> - load all PNGs for all the different emotions and frames <br> - switch to multidimensional arrays <br> - create and add testing sprites <br> - change the style of the welcome page
-5/19/2023 | 2:00 | 40.00 $ | - make everything animated <br> - fix Some small bugs <br> - make debug sprites for animation test 
+5/19/2023 | 2:00 | 40.00 $ | - make everything animated <br> - fix some small bugs <br> - make debug sprites for animation test 
 
 ## **Totals:** (5/16/2023)
 Total Hours Worked | Total Outstanding|  Total Paid
