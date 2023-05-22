@@ -13,7 +13,7 @@ Date| Hours | Earned Pay for Day| Notes & Overview of Changes
 5/21/2023 | 1:00 | 20.00 $ | - put new sprites in <br> - change to a texting style layout for the welcome/intro text
 5/22/2023 | 4:00 | 80.00 $ | - meeting <br> - help re-write script <br> - work on implementing the new script into welcome screens <br> - some css changes
 
-## **Totals:** (5/16/2023)
+## **Totals:** (5/22/2023)
 Total Hours Worked | Total Outstanding|  Total Paid
  ---|---|---
  20:00 | ***400.00 $*** | 0.00 $
