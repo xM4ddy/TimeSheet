@@ -11,9 +11,9 @@ Date| Hours | Earned Pay for Day| Notes & Overview of Changes
 5/16/2023 | 4:00 | 80.00 $ | - switch to scrolling intro page <br> - load all PNGs for all the different emotions and frames <br> - switch to multidimensional arrays <br> - create and add testing sprites <br> - change the style of the welcome page
 5/19/2023 | 2:00 | 40.00 $ | - make everything animated <br> - fix some small bugs <br> - make debug sprites for animation test
 5/21/2023 | 1:00 | 20.00 $ | - put new sprites in <br> - change to a texting style layout for the welcome/intro text
-5/22/2023 | 3:00 | 20.00 $ | - meeting <br> - help re-write script <br> - work on implementing the new script into welcome screens.
+5/22/2023 | 4:00 | 80.00 $ | - meeting <br> - help re-write script <br> - work on implementing the new script into welcome screens <br> - some css changes
 
 ## **Totals:** (5/16/2023)
 Total Hours Worked | Total Outstanding|  Total Paid
  ---|---|---
- 19:00 | ***380.00 $*** | 0.00 $
+ 20:00 | ***400.00 $*** | 0.00 $
