@@ -1,6 +1,6 @@
 </br>
 
-## **- Totals:** (7/24/23)
+## **- Totals:** (7/29/23)
 Total Hours Worked | Total Outstanding | Total Paid
  ---|---|---
  72 | ***1,440 $*** | 0 $
