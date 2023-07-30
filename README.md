@@ -3,7 +3,7 @@
 ## **- Totals:** (7/29/23)
 Total Hours Worked | Total Outstanding | Ammount In Timesheet
  ---|---|---
- 72 | ***1,440 $*** | 1440 $
+ 72 | ***1,440 $*** | 1,440 $
 
 </br>
 
