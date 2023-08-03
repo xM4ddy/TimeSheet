@@ -13,7 +13,3 @@ Total Hours Worked | Total Outstanding | Ammount In Timesheet
 - The [files changed tab](https://github.com/Navinate/stairwell-new/pull/8/files) has overall changes made.
 
 - Clicking on [each individual commit](https://github.com/Navinate/stairwell-new/pull/8/commits) will show groups of changes made.
-
-<br>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm30UV8g2yQOs27oh9DBkeZN02g9J8AflxB-Fu2sB_B2LZNHTv_faIzDbeme02qs8QnA49J77Xbmtf/pubhtml?gid=1906098682&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
