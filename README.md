@@ -1,7 +1,7 @@
 ### **- Totals:** (9/24/23) ([Spreadsheet](https://docs.google.com/spreadsheets/d/1uebYlVa_uwc9yIZWAbd7_6AoYlfnznqHQuRlmyCJye4/view?usp=sharing))
 Total Hours Worked | Total Outstanding | Ammount In Timesheet
  ---|---|---
- 124.00 | ***900.00 $*** | 2,480.00 $
+ 156.00 | ***640.00 $*** | 3,120.00 $
 
 <br>
 
